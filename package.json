@@ -20,6 +20,7 @@
     "idb": "^8.0.2",
     "md5": "^2.3.0",
     "react": "18.2.0",
+    "events": "^3.3.0",
     "react-native": "^0.72.17",
     "react-native-animatable": "^1.4.0",
     "react-native-device-info": "^14.0.4",
